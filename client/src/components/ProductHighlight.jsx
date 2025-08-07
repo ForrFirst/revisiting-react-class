@@ -1,4 +1,4 @@
-import { ShoppingCartIcon } from "@heroicons/react/24/solid";
+
 import ProductCard from "./ProductCard";
 
 function ProductHighlight() {

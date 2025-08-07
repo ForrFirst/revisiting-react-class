@@ -1,5 +1,7 @@
 //  🛠️ Todo 1: ให้สร้าง ProductCard Component แล้วนำไป Render ในไฟล์ `ProductHighlight.jsx`
 //  แทนที่ Product Card 1, Product Card 2 และ Product Card 3
+import { ShoppingCartIcon } from "@heroicons/react/24/solid";
+
 export default function ProductCard() {
   return (
     <div className="bg-white p-4 shadow-md">
