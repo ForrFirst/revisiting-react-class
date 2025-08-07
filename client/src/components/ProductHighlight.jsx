@@ -1,3 +1,7 @@
+import {
+  ShoppingCartIcon
+} from "@heroicons/react/24/solid";
+
 export default function ProductHighlight(){
     return (
         <section className="bg-gray-200 py-8">

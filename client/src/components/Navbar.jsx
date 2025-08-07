@@ -1,6 +1,12 @@
 // 🛠️ Todo 1 / Step 1: ให้ Declare ตัว Component ลงในไฟล์นี้ด้านล่าง
 
 //     ==== ตัวอย่าง ====
+import {
+  BeakerIcon,
+  HomeIcon,
+  ShoppingCartIcon,
+  DevicePhoneMobileIcon
+} from "@heroicons/react/24/solid";
 
     export default function Navbar() {
        return (

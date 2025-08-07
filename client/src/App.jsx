@@ -1,13 +1,4 @@
-import {
-  BeakerIcon,
-  HomeIcon,
-  ShoppingCartIcon,
-  DevicePhoneMobileIcon,
-  ComputerDesktopIcon,
-  MusicalNoteIcon,
-  ShoppingBagIcon,
-  VideoCameraIcon,
-} from "@heroicons/react/24/solid";
+
 
 // 🛠️ Todo 1 / Step 3: ให้ Import ตัว Component Navbar เพื่อจะนำไป Render ลงใน Component App ด้านล่าง
 

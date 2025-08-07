@@ -1,3 +1,10 @@
+import {
+  ComputerDesktopIcon,
+  MusicalNoteIcon,
+  ShoppingBagIcon,
+  VideoCameraIcon,
+} from "@heroicons/react/24/solid";
+
 export default function ProductCategory(){
     return(
         <section className="bg-gray-100 py-8">
